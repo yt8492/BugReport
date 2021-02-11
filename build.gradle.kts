@@ -12,7 +12,6 @@ repositories {
 
 dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-nodejs:0.0.7")
-    testImplementation(kotlin("test-js"))
 }
 
 kotlin {
